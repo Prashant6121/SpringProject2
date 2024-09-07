@@ -2,7 +2,7 @@ package in.pd.beans;
 
 public class Student {
 	
-	private int id;
+	private int idd;
 	private String name;
 	private Address address;
 	

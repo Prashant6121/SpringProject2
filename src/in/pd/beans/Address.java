@@ -1,7 +1,7 @@
 package in.pd.beans;
 
 public class Address {
-	private int houseno;
+	private int houseno1;
 	private String City;
 	private int pincode;
 	
