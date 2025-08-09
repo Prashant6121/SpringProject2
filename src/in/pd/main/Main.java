@@ -14,6 +14,7 @@ public class Main {
 		ApplicationContext context=new AnnotationConfigApplicationContext(SpringConfigFile.class);
 		Student st=(Student)context.getBean(Student.class);
 		st.display();
+                                    System.out.println(st);
 		
 	}
 
